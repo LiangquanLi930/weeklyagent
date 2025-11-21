@@ -28,7 +28,7 @@ pydantic==1.10.21
 pyproject-toml==0.0.10
 PyYAML==6.0.2
 referencing==0.36.2
-requests==2.32.3
+requests==2.32.4
 requests-toolbelt==1.0.0
 rpds-py==0.24.0
 setuptools==79.0.0
